@@ -129,16 +129,6 @@ The strongest observed outputs were the Vercel-hosted DocVault build and the Goo
 
 Emergent, Replit, Zite and Base44 are capable broader app-building platforms, but this assignment is intentionally narrow. For such a small browser-only utility, extra full-stack features do not automatically improve the result. The most successful outputs stayed focused on one action: choose a DOCX file, convert locally, and make the privacy promise obvious.
 
-## Deliverables
-
-This evaluation package contains:
-
-- `AI_Agent_Word_to_PDF_Evaluation_README.md`
-- `AI_Agent_Word_to_PDF_Detailed_Evaluation.docx`
-- `AI_Agent_Word_to_PDF_Detailed_Evaluation.pdf`
-- `AI_Agent_Word_to_PDF_Assignment_Short.docx`
-- `AI_Agent_Word_to_PDF_Assignment_Short.pdf`
-
 ## Sources Reviewed
 
 Live application URLs are listed above. Platform capability descriptions were cross-checked against current official pages/documentation for Emergent, Lovable, Replit, Bolt, Zite, Base44, OpenCode and Google Antigravity. Review date: 17 September 2026.
